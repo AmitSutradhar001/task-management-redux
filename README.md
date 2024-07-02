@@ -33,6 +33,7 @@
 - In the "Task List," you will find several options:
   - A checkbox to mark the task as complete or incomplete. This action will display a line through the title accordingly.
   - The title of the task.
-  - The "Delete" button. Clicking this button allows you to delete the task not only from your Redux Store but also from your Local Storage.
+  - The "Delete" button, Clicking this button allows you to delete the task not only from your Redux Store but also from your Local Storage.
+  - The "Edit" button, clicking this button allows you to edit the task not only from your Redux Store but also from your Local Storage.
   - The "See More..."/"See Less" button. This button toggles the visibility of the task description.
   - **\*(Note: When the "See More..." button is active, the checkbox for marking the task will be disabled. It will only function when the description is hidden. & When the "CheckBox" button is active, the "See More.." will be disabled. )**
